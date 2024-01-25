@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    margin: 30%;
+    margin-top: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    border: 2px solid rgb(255, 255, 255);
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.css:active{
+color:rgb(0, 0, 0);
+
+}
+.css{
+    color: rgb(179, 179, 179);
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.div{
+    border: 2px solid rgb(255, 255, 255);
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+.h1{
+    color: #000000;
+    margin-top:50px;
+
+    font-family: Mulish;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+}
+.h1:hover{
+    color: red;
+}
+#id{
+
+    width: 400px;
+   
+}
+.p{
+    color: #7D7987;
+
+    font-family: Mulish;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32px; 
+}
+.button{color: white;
+    width: 197.753px;
+height: 56px;
+margin-top: 20px;
+flex-shrink: 0;
+border-radius: 55px;
+background: #458FF6;
+}
+.button:active{
+    background-color: white;
+}
+.img{
+width: 450px;
+height: 450px;
+}
+.h2{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    transition: 2s;
+}
+.h2:hover{
+    color: red;
+}
+
+.div2{
+    border:2px solid rgb(255, 255, 255);
+    margin:0px 15%;
+    display:flex;
+    flex-direction:column;
+}
+.p2{color: #7D7987;
+    padding: 20px 40px;
+    text-align: center;
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30px; }
+.pic1{
+    margin-top: 20px;
+    border: 2px solid rgb(255, 255, 255);
+    width: 250px;
+padding-left: 20px;
+padding-top: 20px;
+
+}    
+.pic2{
+    border: 2px solid rgb(255, 255, 255);
+    width: 250px;
+    padding-left: 20px;
+    padding-top: 20px;
+        margin-top: 20px;
+}    
+.pic3{
+    border: 2px solid rgb(255, 255, 255);
+    width: 250px;
+    padding-left: 20px;
+    padding-top: 20px;
+        margin-top: 20px;
+}    
+.pic{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5%;
+    flex-wrap: wrap;
+}
+.par{
+    color: #7D7987;
+
+font-family: Mulish;
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: 28px; 
+}
+.h{
+    padding-top: 50px;
+
+}
+.button1{color: white;
+    width: 197.753px;
+height: 56px;
+margin-top: 20px;
+flex-shrink: 0;
+border-radius: 55px;
+background: #458FF6;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.button1:active{
+   background-color: white;
+}
+.button2{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.two{
+    font-size:30px ;
+    display: flex;
+    justify-content: center;
+}
+.div3{
+    margin: 70px 15%;
+    border: 2px solid rgb(255, 255, 255);
+}
+.div4{
+display: flex;
+
+
+}
+.m{
+    width: 280px;
+    height: 200px;
+}
+.d{
+    border: 2px solid rgb(255, 255, 255);
+    width: 280px;
+    margin-left: 17px;
+}
+.a{
+    text-decoration: none;
+    color: blue;
+
+}
+.i{
+color: blue;
+transition: 1s;
+}
+.i:hover{
+    margin-left: 10px;
+}
+.foot{
+    width: 100%;
+    background: linear-gradient(183deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    height: 400px;
+    color: white;
+    display: flex;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    margin-left: 100px;
+}
+.para{
+    border: 2px solid    linear-gradient(183deg, #67C3F3 -8.57%, #5A98F2 82.96%);;
+    width: 330px;
+    height: 50px;
+}
+.two{
+    border: 2px solid     linear-gradient(183deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    margin-left: 100px;
+}
+.three{
+    border: 2px solid     linear-gradient(183deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    margin-left: 100px;
+    justify-content: center;
+}
+.img3{
+    font-size: 10px;
+}
+.four{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
